@@ -35,16 +35,16 @@ You can find the Kinect for Windows SDK 2.0 here: https://www.microsoft.com/en-u
 ![BILD VISUAL STUDIO MIT PASSENDEM CODE](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Code_Kinect.PNG?raw=true)
 
 ### Use instructions
+The Kinect V2 supports C#, C++
+In this pictures you can see the RGB, the skeleton view and the depth map with the Kinect V2 (Depthcamera shows different input):
 
-In this pictures you can see the RGB, the skeleton view and the depth map with the Kinect V2:
 
-
-![BILD RGB, SKELETT, TIEFENKAMERA](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Image_KinectV2.PNG?raw=true)
+![BILD RGB, SKELETT, TIEFENKAMERA](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Image_KinectV2.png?raw=true)
 
 In this picture you can see the the RGB view and the object detection on the map with the Kinect V2:
 
 
-![BILD RGB, OBJECT DETECTION](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_Kinect.PNG?raw=true)
+![BILD RGB, OBJECT DETECTION](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_KinectV2.png?raw=true)
 
 
 
@@ -85,11 +85,11 @@ With the scripts from this repository you can activate the various views of the 
     - Body_tracking: Here you can see the Skeleton View and a RGB view with the similar skeletons on the persons
     - Birds eye viewer: Here you can see a function used for person detection in a room seen on a map, in a pointcloud and in RGB
     
-In this pictures you can see the RGB, the skeleton view and the depth map with the Zed 2i:
+In this pictures you can see the RGB, the skeleton view and the depth map with the Zed 2i (skeleton view shows not the same image):
 
-![BILD RGB, SKELETT, TIEFENKAMERA](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_Kinect.PNG?raw=true)
+![BILD RGB, SKELETT, TIEFENKAMERA](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Image_Zed2i.jpg?raw=true)
 
 
 In this picture you can see the pointcloud, the RGB view and the object detection on the map with the Zed 2i:
 
-![BILD POINTCLOUD, RGB, OBJECT DETECTION](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_Zed2i.PNG?raw=true)
+![BILD POINTCLOUD, RGB, OBJECT DETECTION](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_Zed2i.png?raw=true)
