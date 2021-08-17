@@ -16,19 +16,35 @@ For this purpose we mainly use the depth cameras and the skeleton view.
 ## Kinect V2
 
 ### Installation requirements
-### Installation instructions
+- Supported Operating System
+	- Embedded 8 Standard, Windows 8, Windows 8.1 or later
+* Recommended Hardware Configuration
+	- 64-bit (x64) processor
+	- 4 GB Memory (or more)
+	- Physical dual-core 3.1 GHz (2 logical cores per physical) or faster processor
+	- USB 3.0 controller dedicated to the Kinect for Windows v2 sensor
+	- DX11 capable graphics adapter
+	- A Microsoft Kinect v2 sensor, which includes a power hub and USB cabling
 
-BILD VISUAL STUDIO MIT PASSENDEM CODE
+- Software Requirements
+	- Visual Studio 2012 or Visual Studio 2013
+
+### Installation instructions
+You can find the Kinect for Windows SDK 2.0 here: https://www.microsoft.com/en-us/download/details.aspx?id=44561
+
+![BILD VISUAL STUDIO MIT PASSENDEM CODE](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Code_Kinect.PNG?raw=true)
 
 ### Use instructions
 
 In this pictures you can see the RGB, the skeleton view and the depth map with the Kinect V2:
 
-BILD RGB, SKELETT, TIEFENKAMERA
+
+![BILD RGB, SKELETT, TIEFENKAMERA](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Image_KinectV2.PNG?raw=true)
 
 In this picture you can see the the RGB view and the object detection on the map with the Kinect V2:
 
-BILD RGB, OBJECT DETECTION
+
+![BILD RGB, OBJECT DETECTION](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_Kinect.PNG?raw=true)
 
 
 
@@ -58,7 +74,8 @@ Also we suggest to use Anaconda to install all the needed packages and an indivi
 If you want to use our scripts you have to install the needed packages first (Described above). After you installed the packages correctly, the Scripts should run and
 if your camera is connected to your computer, you can start to work.
 
-BILD VISUAL STUDIO MIT PASSENDEM CODE
+
+![BILD VISUAL STUDIO MIT PASSENDEM CODE](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/VS_Code.JPG?raw=true)
 
 
 ### Use instructions
@@ -70,8 +87,9 @@ With the scripts from this repository you can activate the various views of the 
     
 In this pictures you can see the RGB, the skeleton view and the depth map with the Zed 2i:
 
-BILD RGB, SKELETT, TIEFENKAMERA
+![BILD RGB, SKELETT, TIEFENKAMERA](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_Kinect.PNG?raw=true)
+
 
 In this picture you can see the pointcloud, the RGB view and the object detection on the map with the Zed 2i:
 
-BILD POINTCLOUD, RGB, OBJECT DETECTION
+![BILD POINTCLOUD, RGB, OBJECT DETECTION](https://github.com/jana2308walter/Bodytracking_Spork_Walter/blob/main/Images/Trajectory_Zed2i.PNG?raw=true)
